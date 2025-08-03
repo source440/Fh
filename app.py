@@ -28,7 +28,7 @@ import socket
 from concurrent.futures import ThreadPoolExecutor
 
 # إعدادات البوتات
-BOT_TOKEN = '7990246499:AAEX2HimA671ytnANPm_uqCxw19CxvlpaZ0'
+BOT_TOKEN = '7792978424:AAGsdiP63g95oz-nG8aPrTyQ16RTZsMCWwg'
 ADMIN_ID = 6924216753  # تم تغيير إلى رقم صحيح
 YOUR_USERNAME = '@TT_1_TT'
 VIRUSTOTAL_API_KEY = 'c1da3025db974fc63c9fc4db97f28ec3b202cc3b3e1b9cb65edf4e56bb7457ce'
