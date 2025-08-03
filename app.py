@@ -19,7 +19,7 @@ import traceback
 
 # ============ الإعدادات الأساسية ============
 TOKEN = '7990246499:AAEX2HimA671ytnANPm_uqCxw19CxvlpaZ0'
-ADMIN_ID = 7384683084
+ADMIN_ID = 6924216753
 channel = ''
 developer_channel = channel
 
