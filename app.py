@@ -15,7 +15,7 @@ import threading
 TOKEN = '7792978424:AAGeZbhbH_HKvFUMCO03s9RLM1sS8QYxd34'
 bot = telebot.TeleBot(TOKEN)
 
-admin_id = 7384683084
+admin_id = 6924216753
 max_file_size = 100 * 1024 * 1024
 
 banned_users = set()
